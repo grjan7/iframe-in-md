@@ -58,7 +58,7 @@ Mambakkam,
 Chennai-600127,
 Tamilnadu, India
 
-[!shree krishna furnitures][shree krishna furnitures.png](https://www.google.com/maps/place/%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80+%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B7%E0%AF%8D%E0%AE%A3%E0%AE%BE+%E0%AE%AA%E0%AE%B0%E0%AF%8D%E0%AE%A9%E0%AE%BF%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%B0%E0%AF%8D%E0%AE%B8%E0%AF%8D+(Shree+Krishna+Furnitures)/@12.825506,80.0939122,12z/data=!4m12!1m6!3m5!1s0x3a525956466a91f7:0x28e5cb50f6fcb7de!2z4K644K-N4K6w4K-AIOCuleCuv-CusOCvgeCut-CvjeCuo-CuviDgrqrgrrDgr43grqngrr_grp_gr43grprgr43grprgrrDgr43grrjgr40gKFNocmVlIEtyaXNobmEgRnVybml0dXJlcyk!8m2!3d12.825506!4d80.16395!3m4!1s0x3a525956466a91f7:0x28e5cb50f6fcb7de!8m2!3d12.825506!4d80.16395)
+
 <!-- 
 <a href="https://goo.gl/maps/nh6KuG1LJqE4eV518">furniture maker in chennai, chennai, tamilnadu, india, asia</a>
 <a href="https://goo.gl/maps/nh6KuG1LJqE4eV518">furniture makers in chennai, chennai, tamilnadu, india, asia</a>
