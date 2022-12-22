@@ -35,7 +35,7 @@ In addition to that, we provide consultation on choice of material and cost esti
 [Furniture makers in Mambakkam](https://shreekrishnafurnitures.business.site/?m=true)
 
 # Posts
-
+<div>
 <iframe src="https://shreekrishnafurnitures.business.site/posts/3282109414242888612?hl=en-GB" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <iframe src="https://shreekrishnafurnitures.business.site/posts/3692961493040802793?hl=en-GB" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -47,6 +47,7 @@ In addition to that, we provide consultation on choice of material and cost esti
 <iframe src="https://shreekrishnafurnitures.business.site/posts/1399626676994709796?hl=en-GB" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <iframe src="https://shreekrishnafurnitures.business.site/posts/8018310706614267161?hl=en-GB" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 # Location
 
