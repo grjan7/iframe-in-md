@@ -59,7 +59,7 @@ Mambakkam,
 Chennai-600127,
 Tamilnadu, India
 
-![Shree Krishna Furnitures, Mambakkam Map](https://github.com/grjan7/iframe-in-md/blob/main/map.JPG)(https://goo.gl/maps/nh6KuG1LJqE4eV518)
+[<img src="map.JPG" alt= "Shree Krishna Furnitures, Mambakkam Map">](https://goo.gl/maps/nh6KuG1LJqE4eV518)
 
 <!-- 
 <a href="https://goo.gl/maps/nh6KuG1LJqE4eV518">furniture maker in chennai, chennai, tamilnadu, india, asia</a>
