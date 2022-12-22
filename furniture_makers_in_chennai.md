@@ -8,6 +8,8 @@ Our custom-designed, classy, and well-crafted wooden furniture are of high quali
 
 You can reach out to us to make an order for your custom-crafted
 
+[<img src="shree krishna furnitures.png" alt= "Shree Krishna Furnitures, Mambakkam">](https://goo.gl/maps/nh6KuG1LJqE4eV518)
+
 ## PRODUCTS 
 
   - [wooden sofa set](https://goo.gl/maps/nh6KuG1LJqE4eV518)
@@ -33,8 +35,6 @@ You can reach out to us to make an order for your custom-crafted
 In addition to that, we provide consultation on choice of material and cost estimate to pick the right choice that is affordable and matches your taste.
 
 [Furniture makers in Mambakkam](https://shreekrishnafurnitures.business.site/?m=true)
-
-[<img src="shree krishna furnitures.png" alt= "Shree Krishna Furnitures, Mambakkam">](https://goo.gl/maps/nh6KuG1LJqE4eV518)
 
 # Posts
 
