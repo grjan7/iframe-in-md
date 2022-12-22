@@ -34,10 +34,12 @@ In addition to that, we provide consultation on choice of material and cost esti
 
 [Furniture makers in Mambakkam](https://shreekrishnafurnitures.business.site/?m=true)
 
-# Posts
-<div>
-<iframe src="https://shreekrishnafurnitures.business.site/posts/3282109414242888612?hl=en-GB" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+[<img src="shree krishna furnitures.png" alt= "Shree Krishna Furnitures, Mambakkam">](https://goo.gl/maps/nh6KuG1LJqE4eV518)
 
+# Posts
+
+[<img src="https://shreekrishnafurnitures.business.site/posts/3282109414242888612?hl=en-GB" width="600" height="450">](https://shreekrishnafurnitures.business.site/posts/3282109414242888612?hl=en-GB)
+<!--
 <iframe src="https://shreekrishnafurnitures.business.site/posts/3692961493040802793?hl=en-GB" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <iframe src="https://shreekrishnafurnitures.business.site/posts/7275180138446570663?hl=en-GB" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -47,7 +49,7 @@ In addition to that, we provide consultation on choice of material and cost esti
 <iframe src="https://shreekrishnafurnitures.business.site/posts/1399626676994709796?hl=en-GB" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <iframe src="https://shreekrishnafurnitures.business.site/posts/8018310706614267161?hl=en-GB" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+-->
 
 # Location
 
@@ -59,7 +61,7 @@ Mambakkam,
 Chennai-600127,
 Tamilnadu, India
 
-[<img src="map.JPG" alt= "Shree Krishna Furnitures, Mambakkam Map" width="500px" height="500px">](https://goo.gl/maps/nh6KuG1LJqE4eV518)
+[<img src="map.JPG" alt= "Shree Krishna Furnitures, Mambakkam Map" width="600px" height="450px">](https://goo.gl/maps/nh6KuG1LJqE4eV518)
 
 <!-- 
 <a href="https://goo.gl/maps/nh6KuG1LJqE4eV518">furniture maker in chennai, chennai, tamilnadu, india, asia</a>
